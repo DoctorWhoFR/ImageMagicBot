@@ -1,0 +1,26 @@
+{
+  "name": "bot.js-commando",
+  "version": "1.0.1",
+  "description": "A Template for creating your very own Discord.JS Commando Discord bot. ",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-da-m/bot.js-commando.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "A-da-m - Daniël Langezaal & CMDJojo &",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/A-da-m/bot.js-commando/issues"
+  },
+  "homepage": "https://github.com/A-da-m/bot.js-commando#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0"
+  }
+}
